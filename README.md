@@ -1,0 +1,1 @@
+This repo includes my midterm for the course COMS4111 Intro to Databases. Question types include conceptual questions and database term definitions, ER modeling, relational algebra expressions, and SQL (data and schema cleanup and queries).
